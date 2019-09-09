@@ -1,5 +1,8 @@
 # Scott Joyner
---
-# BS Computer Science
+scjoyner@ncsu.edu
 
-This is my resume
+##Education
+Computer Science BS
+North Carolina State University
+
+
